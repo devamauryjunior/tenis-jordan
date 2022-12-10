@@ -33,6 +33,7 @@
     text-align: left;
     background-image: linear-gradient(rgba(0, 0, 0, 0.5),
                        rgba(0, 0, 0, 0.69)), url("./../../assets/img/air-jordan.svg");
+    background-size: cover;
 }
 
 .b2-title {
