@@ -1,0 +1,52 @@
+.container-1 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 1440px;
+}
+
+.box-1 {
+    width: 100%;
+    text-align: center;
+}
+
+.b1-bonus {
+    padding: 1.5rem 3.5rem;
+    background: #181818;
+    font-weight: 500;
+    font-size: 1.6rem;
+    color: #F9F9F9;
+}
+
+.b1-title {
+    font-weight: 600;
+    font-size: 2.4rem;
+    padding-block: 1rem;
+    color: #181818;
+}
+
+.box-2 {
+    width: 100%;
+    padding-inline: 2rem;
+    text-align: left;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5),
+                       rgba(0, 0, 0, 0.69)), url("./../../assets/img/air-jordan.svg");
+}
+
+.b2-title {
+    font-weight: 700;
+    font-size: 2.6rem;
+    padding-top: 12.2rem;
+    margin-bottom: 1.2rem;
+    color: #F9F9F9;
+    width: 100%;
+}
+
+.b2-text {
+    padding-bottom: 8rem;
+    font-size: 1.6rem;
+    line-height: 180%;
+    color: #F9F9F9;
+}
