@@ -50,3 +50,30 @@
     line-height: 180%;
     color: #F9F9F9;
 }
+
+.container-2 {
+    /* border: 1px solid red; */
+    text-align: center;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-inline: 2rem;
+}
+
+.box-3 {
+    margin: 5rem 0 5.9rem 0;
+}
+
+.b3-title {
+    font-weight: 600;
+    font-size: 2.8rem;
+    color: #181818;
+    margin-bottom: .5rem;
+}
+
+.b3-text {
+    font-weight: 500;
+    color: #474747;
+}
