@@ -43,6 +43,11 @@ function Home() {
             {
                 arrImages.map((srcImage, idx) => <Shoes key={idx} image={srcImage} />)
             }
+            <div className="footer">
+                <p className="ft-text">
+                    Todos os direitos reservados.
+                </p>
+            </div>
         </div>
 
     )
